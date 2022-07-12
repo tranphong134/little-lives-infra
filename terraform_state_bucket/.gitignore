@@ -1,0 +1,4 @@
+# TF state and modules
+.terraform/*
+*.zip
+provider.tf
